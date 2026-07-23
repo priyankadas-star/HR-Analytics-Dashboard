@@ -106,7 +106,7 @@ The following preprocessing steps were performed:
 
 ### Overview
 
-![Dashboard](Images/HR_dashboard1.png)
+![Dashboard](Image/HR_dashboard1.png)
 
 ---
 
